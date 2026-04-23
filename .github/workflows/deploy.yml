@@ -1,4 +1,4 @@
-# Workflow: This will Deploys network and ECS stacks
+# Workflow: Deploys network and ECS stacks
 name: Deploy Infrastructure
 
 # Trigger: Runs when code is pushed to main branch
